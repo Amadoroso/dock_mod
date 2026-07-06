@@ -1,4 +1,4 @@
-# dock_mod
+# DockMod
 
 A Python script to modify the macOS Dock autohide delay and adjust its animation speed. 
 
